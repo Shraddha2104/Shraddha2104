@@ -32,7 +32,6 @@ const thai = {
   <samp>
     :wave: I have been contributing to some open source projects in Javascript.I have always been a curious individual, which is why I’d love to collaborate and do some real-world projects in order to flourish my skills. I'm very far from perfection, yet I'm resilient, assertive and stubborn and I find learning a fascinating process.
       <br><em>Feel free to reach out to me with some advice, I’d love to hear some constructive criticism about any of my projects!:sparkles:<br><br>
-    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-   <br><br>:coffee: Wanna chat? :point_right: DM me on <a href="https://www.linkedin.com/in/shraddha2104/">Linkedin</a>
+   
   </samp>
 </p>
