@@ -1,6 +1,9 @@
 # Shraddha Shaligram
 
- [![Linkedin Badge](https://img.shields.io/badge/-Shraddha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shraddha2104/)](https://www.linkedin.com/in/sejal-choudhary-9a33ab170/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-Shraddha2104-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shraddha2104/)](https://www.linkedin.com/in/sejal-choudhary-9a33ab170/) 
+
+[![Medium Badge](https://img.shields.io/badge/-sshaligr-c14438?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@sshaligr)](@sshaligr)
+
 [![Gmail Badge](https://img.shields.io/badge/-sshaligr@usc.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sshaligr@usc.edu)](sshaligr@usc.edu)
 ---
 
