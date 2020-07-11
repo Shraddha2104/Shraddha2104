@@ -5,10 +5,17 @@
 ---
 ### Hola Amigo👋
 ---
-I am Shraddha Shaligram , a Computer Science graduate student at University of Southern California, Los Angeles :student:.
+I am Shraddha Shaligram , a Computer Science graduate student at University of Southern California, Los Angeles :student:. If you are looking for  rocket fuel :fire: to your team, I am up full-time software engineering roles starting May 2021. 
 ```
 Programmer (noun): A machine that turns coffee into code.
 ```
+## My Tech Stack
+💖 React JS<br>
+🌟 Node JS<br>
+🚀 Javascript<br>
+🙌 C++<br>
+🌟 Python<br>
+
 <p>
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
