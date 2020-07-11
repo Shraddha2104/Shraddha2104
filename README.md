@@ -23,9 +23,12 @@ const thai = {
                         open source contributor: "n8n.io",
                         technical writer: "Better Programming publication",
                         member: "Women of Rewrtiting the code"
-                        fellow:"GitHub's MLH Fellow 2020"
+                        fellow: "GitHub's MLH Fellow 2020"
                       },
  challenge: "Learning best open source coding practises"
+ blogs: {
+   my first open source contribution: "https://bit.ly/2BZA6JG",
+  
 }
 ```
 
