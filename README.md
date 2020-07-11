@@ -9,7 +9,7 @@ I am Shraddha Shaligram , a Computer Science graduate student at University of S
 ```
 Programmer (noun): A machine that turns coffee into code.
 ```
-## My Tech Stack
+### My Tech Stack
 💖 React JS<br>
 🌟 Node JS<br>
 🚀 Javascript<br>
