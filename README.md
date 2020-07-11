@@ -13,7 +13,7 @@ I am Shraddha Shaligram , a Computer Science graduate student at University of S
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const shraddha = {
   pronouns: "she" | "her",
   front-end: [React JS,Javascript, Typescript, HTML, CSS, Bootstrap],
   askMeAbout: [
