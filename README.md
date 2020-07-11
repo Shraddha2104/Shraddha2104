@@ -20,6 +20,8 @@ const shraddha = {
     "webdev", "tech", "music",
   ],
   back-end: [Node JS, Flask, Django],
+  cloud technologies: [AWS, GCP],
+  programming languages: [C++, Python, Java],
   techCommunities: {
                         open source contributor: "n8n.io",
                         technical writer: "Better Programming publication",
