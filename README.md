@@ -14,8 +14,11 @@ I am Shraddha Shaligram , a Computer Science graduate student at University of S
 ```javascript
 const thai = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, C++, Python, Java],
-  tools: [React JS, Node JS, Git],
+  front-end: [React JS,Javascript, Typescript, HTML, CSS, Bootstrap],
+  askMeAbout: [
+    "webdev", "tech", "music",
+  ],
+  back-end: [Node JS, Flask, Django],
   techCommunities: {
                         open source contributor: "n8n.io",
                         technical writer: "Better Programming publication",
@@ -30,7 +33,7 @@ const thai = {
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
   <br><br>
   <samp>
-    :wave: I have been contributing to some open source projects in Javascript.I have always been a curious individual, which is why I’d love to collaborate and do some real-world projects in order to flourish my skills. I'm very far from perfection, yet I'm resilient, assertive and stubborn and I find learning a fascinating process.
+    :wave: I have been contributing to some open source projects in Javascript <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.I have always been a curious individual, which is why I’d love to collaborate and do some real-world projects in order to flourish my skills. I'm very far from perfection, yet I'm resilient, assertive and stubborn and I find learning a fascinating process.
       <br><em>Feel free to reach out to me with some advice, I’d love to hear some constructive criticism about any of my projects!:sparkles:<br><br>
    
   </samp>
