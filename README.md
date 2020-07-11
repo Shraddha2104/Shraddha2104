@@ -5,7 +5,7 @@
 ---
 
 
-I am Shraddha Shaligram , a Computer Science graduate student at University of Southern California, Los Angeles :student:. If you are looking for  rocket fuel :fire: to your team, I am up full-time software engineering roles starting May 2021. 
+I am Shraddha Shaligram , a Computer Science graduate student at University of Southern California, Los Angeles :student:. If you are looking for  rocket fuel :fire: to your team, I am up <b>full-time software engineering roles starting May 2021</b>. 
 
 [![Shraddha's github stats](https://github-readme-stats.vercel.app/api?username=Shraddha2104&hide=["stars","issues"])](https://github.com/Shraddha2104/github-readme-stats)
 
@@ -31,9 +31,9 @@ const thai = {
 
 <p>
   <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br>
+  <br>
   <samp>
-    :wave: I have been contributing to some open source projects in Javascript <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.I have always been a curious individual, which is why I’d love to collaborate and do some real-world projects in order to flourish my skills. I'm very far from perfection, yet I'm resilient, assertive and stubborn and I find learning a fascinating process.
+   I have been contributing to some open source projects in Javascript <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.I have always been a curious individual, which is why I’d love to collaborate and do some real-world projects in order to flourish my skills. I'm very far from perfection, yet I'm resilient, assertive and stubborn and I find learning a fascinating process.
       <br><em>Feel free to reach out to me with some advice, I’d love to hear some constructive criticism about any of my projects!:sparkles:<br><br>
    
   </samp>
