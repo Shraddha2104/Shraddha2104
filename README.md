@@ -25,7 +25,7 @@ const shraddha = {
   techCommunities: {
                         open source contributor: "n8n.io",
                         technical writer: "Better Programming publication",
-                        member: "Women of Rewrtiting the code"
+                        member: "Women of Rewriting the code"
                         fellow: "GitHub's MLH Fellow 2020"
                       },
  challenge: "Learning best open source coding practises"
