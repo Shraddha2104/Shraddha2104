@@ -1,8 +1,12 @@
 # Shraddha Shaligram
 
- [![Linkedin Badge](https://img.shields.io/badge/-Shraddha2104-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shraddha2104/)](https://www.linkedin.com/in/shraddha2104/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Shraddha2104-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shraddha2104/)](https://www.linkedin.com/in/shraddha2104/) 
 [![Medium Badge](https://img.shields.io/badge/-sshaligr-black?style=flat-square&logo=Medium&logoColor=green&link=https://medium.com/@sshaligr)](https://medium.com/@sshaligr)
 [![Gmail Badge](https://img.shields.io/badge/-sshaligr@usc.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sshaligr@usc.edu)](sshaligr@usc.edu)
+[![Website shields.io](https://img.shields.io/website-Shraddha2104.github.io-down-green-red/http/shields.io.svg)](https://shraddha2104.github.io//)
+
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
+
 ---
 
 
