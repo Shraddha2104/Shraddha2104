@@ -33,7 +33,8 @@ const shraddha = {
                       },
  challenge: "Learning best open source coding practises"
  blogs: {
-   my first open source contribution: "https://bit.ly/2BZA6JG",
+   My First Open Source Contribution: "https://bit.ly/2BZA6JG",
+   List of contributions to MLH Fellowship: "https://bit.ly/39OT02v" 
   
 }
 ```
