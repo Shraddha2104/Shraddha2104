@@ -9,7 +9,7 @@
 ---
 
 
-I am Shraddha Shaligram , a Computer Science graduate student at University of Southern California, Los Angeles :student:. If you are looking for  rocket fuel :fire: to your team, I am up <b>full-time software engineering roles starting May 2021</b>. 
+I am Shraddha Shaligram , a Computer Science graduate student at University of Southern California, Los Angeles :student:. If you are looking for  rocket fuel :fire: to your team, I am up for <b>full-time software engineering roles starting May 2021</b>. 
 
 [![Shraddha's github stats](https://github-readme-stats.vercel.app/api?username=Shraddha2104&show_icons=true&hide_rank=true&hide=["stars","issues"])](https://github.com/Shraddha2104/github-readme-stats)
 
