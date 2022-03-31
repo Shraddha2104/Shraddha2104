@@ -22,16 +22,17 @@ const shraddha = {
   askMeAbout: [
     "webdev", "tech", "music",
   ],
-  back-end: [Node JS, Flask, Django],
+  back-end: [Node JS, Flask, Django, Spring Boot],
   cloud technologies: [AWS, GCP],
   programming languages: [C++, Python, Java],
   techCommunities: {
+                        open source mentor: "Microsoft VS Code, Apache Sharding Spheres, Techtonica",
                         open source contributor: "n8n.io",
                         technical writer: "Better Programming publication",
                         member: "Women of Rewriting the code"
                         fellow: "GitHub's MLH Fellow 2020"
                       },
- challenge: "Learning best open source coding practises"
+ challenge: "Learning best software engineering practices"
  blogs: {
    My First Open Source Contribution: "https://bit.ly/2BZA6JG",
    List of contributions to MLH Fellowship: "https://bit.ly/39OT02v" 
