@@ -9,7 +9,7 @@
 ---
 
 
-Hola!!I am Shraddha Shaligram , Software Engineer 1 at Nordstrom. I did my MS in CS at University of Southern California, Los Angeles. If you are looking for  rocket fuel :fire: to your team, I am up for exciting <b>full-time software engineering roles</b>. 
+Hola!! I am Shraddha Shaligram , Software Engineer 1 at Nordstrom. I graduated with MS in CS from University of Southern California, Los Angeles in May 2021. If you are looking for  rocket fuel :fire: to your team, I am up for exciting <b>full-time software engineering roles</b>. 
 
 [![Shraddha's github stats](https://github-readme-stats.vercel.app/api?username=Shraddha2104&show_icons=true&hide_rank=true&hide=["stars","issues"])](https://github.com/Shraddha2104/github-readme-stats)
 
